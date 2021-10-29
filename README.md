@@ -5,3 +5,5 @@
 <img width="722" alt="three" src="https://user-images.githubusercontent.com/49156359/139385173-4c59faa6-0188-49fb-9ff6-bbc751817a49.png">
 <img width="722" alt="lose" src="https://user-images.githubusercontent.com/49156359/139385149-edd79354-925b-4149-a29d-e0eb2a84abf4.png">
 
+<img width="722" alt="four" src="https://user-images.githubusercontent.com/49156359/139386617-42e02703-9338-4888-bbf5-287164025e5d.png">
+<img width="766" alt="three" src="https://user-images.githubusercontent.com/49156359/139386648-5f0a1bc1-faee-432b-bda2-9400383b3906.png">
