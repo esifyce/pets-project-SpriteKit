@@ -7,3 +7,6 @@
 
 <img width="722" alt="four" src="https://user-images.githubusercontent.com/49156359/139386617-42e02703-9338-4888-bbf5-287164025e5d.png">
 <img width="766" alt="three" src="https://user-images.githubusercontent.com/49156359/139386648-5f0a1bc1-faee-432b-bda2-9400383b3906.png">
+
+<img width="399" alt="two" src="https://user-images.githubusercontent.com/49156359/139387616-f4210575-8404-4c81-b217-3ee0a0702366.png">
+<img width="399" alt="one" src="https://user-images.githubusercontent.com/49156359/139387625-e2bd6966-de82-465e-8fbd-badb722dbd9c.png">
